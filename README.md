@@ -9,4 +9,10 @@ To address this, we implemented a different sync circuit.
 
 This is one of our very first designs. Ideas for further optimizations are very welcome.
 
+
+![Drag Racing](https://github.com/b4n4n377/Whirlwind-RE/blob/main/2024-04-19_16-28.png)
+
+
+
+
 ***Shoutouts to** the arcade communities from **Arcade Zone** (https://forum.arcade-zone.de/index.php) and **Groovy Arcade** (https://gitlab.com/groovyarcade/support/-/wikis/home)*
